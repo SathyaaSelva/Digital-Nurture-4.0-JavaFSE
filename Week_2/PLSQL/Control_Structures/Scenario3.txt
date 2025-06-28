@@ -1,0 +1,11 @@
+
+Reminder: Loan ID 1 for customer John Doe is due on 18-JUL-2025
+Reminder: Loan ID 3 for customer Mark Lee is due on 08-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.016
+
+
+!!The query is executed in Oracle SQL Live!!

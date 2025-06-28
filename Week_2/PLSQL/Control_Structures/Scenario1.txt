@@ -1,0 +1,8 @@
+
+1% discount applied to Loan ID: 1
+1% discount applied to Loan ID: 3
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.090

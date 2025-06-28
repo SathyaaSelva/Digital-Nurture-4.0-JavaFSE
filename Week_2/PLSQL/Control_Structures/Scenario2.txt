@@ -1,0 +1,8 @@
+
+Customer 1 promoted to VIP.
+Customer 3 promoted to VIP.
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.012
