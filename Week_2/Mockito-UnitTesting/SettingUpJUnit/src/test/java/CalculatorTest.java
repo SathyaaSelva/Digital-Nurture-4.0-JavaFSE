@@ -1,6 +1,9 @@
-package com.example;
+
 
 import org.junit.Test;
+
+import com.example.Calculator;
+
 import static org.junit.Assert.assertEquals;
 
 public class CalculatorTest {
